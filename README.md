@@ -1,9 +1,10 @@
 # Hey there, I'm Mohamed Ali Krichen
 
-#### I'm an IT Engineer with a specialization in cybersecurity and networking, with a growing passion for cloud infrastructure and AI-driven solutions.
+#### I'm an IT Engineer with a specialization in cybersecurity and networking, with a growing passion for cloud infrastructure and AI-driven solutions. 
 
 
-> 💡 Please visit my portfolio for the bigger picture:
+  
+💡 Welcome to my new and polished github profile. Please visit my portfolio for the bigger picture:
 > ## 🌐 [dalli-krichen.github.io](https://dalli-krichen.github.io/)
 
 ---
